@@ -1,8 +1,7 @@
 # arduino-touch-TFT-breakout
-Based upon an original project by Enrique Albertos.
+This example code is in the public domain.
 
 Something intended to test touch UI responsiveness.
-
 
   Parts needed:
       Ardunio UNO
